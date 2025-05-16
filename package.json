@@ -1,0 +1,19 @@
+{
+  "name": "testvercel",
+  "version": "1.0.0",
+  "description": "\"# testForVercel\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitmandloii/testForVercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitmandloii/testForVercel/issues"
+  },
+  "homepage": "https://github.com/ankitmandloii/testForVercel#readme"
+}
